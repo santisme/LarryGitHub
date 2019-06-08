@@ -2,4 +2,4 @@
 
 Esta saga de libros cuenta la historia de un hacker excepcional.
 
-**Santiago Sanchez**
+**Santiago Sanchez**, Harry Potter fan number one.
